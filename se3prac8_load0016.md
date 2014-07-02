@@ -1,5 +1,9 @@
-Prac 8: Scott Loader, Jayden Roberts, Jarred Daw
-================================================
+Practical 8
+===========
+
+ - Scott Loader : load0016
+ - Jayden Roberts : robe0635
+ - Jarred Daw : daw0023
 
 Introduction
 ------------
